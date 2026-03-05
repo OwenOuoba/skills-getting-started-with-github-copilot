@@ -112,7 +112,7 @@ section h3 {
 }
 
 .delete-participant {
-  background-color: #d946ef;
+  background-color: #e91e63;
   color: white;
   border: none;
   width: 24px;
@@ -130,7 +130,7 @@ section h3 {
 }
 
 .delete-participant:hover {
-  background-color: #c026d3;
+  background-color: #c2185b;
 }
 
 .no-participants {
